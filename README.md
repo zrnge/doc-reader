@@ -19,10 +19,9 @@ A lightweight Python GUI application for reading `.docx` and legacy `.doc` files
 ## Screenshots
 
 > *Add a screenshot of the app here after running it:*
->
-> ```
+
 ![screenshot](https://github.com/zrnge/doc-reader/blob/main/Doc-Reader.png)
-> ```
+
 
 ## Prerequisites
 
